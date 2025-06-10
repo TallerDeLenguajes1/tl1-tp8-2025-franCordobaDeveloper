@@ -61,9 +61,17 @@ namespace ToDo
             }
         }
 
-        static void MoverTareasDePendientesARealizadas(List<Tarea> tareaPendiente, List<Tarea> tareaRealizada)
+        static void MoverTareasDePendientesARealizadas(List<Tarea> listaTareaPendiente, List<Tarea> listaTareaRealizada)
         {
-            
+
+            foreach (var tareaPendiente in listaTareaPendiente)
+            {
+                
+                
+
+
+            }
+
         }
 
     }
