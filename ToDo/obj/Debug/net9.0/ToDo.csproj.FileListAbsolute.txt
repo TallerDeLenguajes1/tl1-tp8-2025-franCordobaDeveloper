@@ -1,0 +1,15 @@
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\bin\Debug\net9.0\ToDo.exe
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\bin\Debug\net9.0\ToDo.deps.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\bin\Debug\net9.0\ToDo.runtimeconfig.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\bin\Debug\net9.0\ToDo.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\bin\Debug\net9.0\ToDo.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.AssemblyInfoInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.AssemblyInfo.cs
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.csproj.CoreCompileInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.sourcelink.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\refint\ToDo.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ToDo.genruntimeconfig.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\ToDo\obj\Debug\net9.0\ref\ToDo.dll

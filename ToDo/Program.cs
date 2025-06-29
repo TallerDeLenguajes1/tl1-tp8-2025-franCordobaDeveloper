@@ -1,15 +1,18 @@
-﻿
+﻿using ToDo;
+using ToDo.Models;
+
 class Program
 {
 
     static void Main()
     {
+        var gestorDeTareas = new TareaFuncionalidades(); // Instancia de la clase
 
-        
-
+        List<Tarea> tareasPendientes = gestorDeTareas.CrearTareasPendientes();
+        List<Tarea> tareasRealizadas = new List<Tarea>();
 
         int opc;
-        string? numString;
+        string numString;
         bool continuar = true;
 
 
@@ -17,6 +20,7 @@ class Program
         {
             do
             {
+                Console.ForegroundColor = ConsoleColor.Green;
 
                 Console.WriteLine("Ingrese 1 para  Cargar las Tareas");
 
@@ -43,21 +47,25 @@ class Program
             switch (opc)
             {
                 case 1:
+                    tareasPendientes = gestorDeTareas.CrearTareasPendientes();
                     break;
 
                 case 2:
+                    gestorDeTareas.MostrarTareas(tareasPendientes, tareasRealizadas);
                     break;
                 case 3:
+                    gestorDeTareas.MoverTareasDePendientesARealizadas(tareasPendientes, tareasRealizadas);
                     break;
 
                 case 4:
+                    gestorDeTareas.BuscarTareaPendientePorDescripcion(tareasPendientes);
                     break;
 
 
                 default:
                     return;
             }
-            
+
             Console.WriteLine("Desea Realizar otra Operacion? - Presione 0 para salir o 1 para relizar otra operacion");
             numString = Console.ReadLine();
             continuar = int.TryParse(numString, out opc);
