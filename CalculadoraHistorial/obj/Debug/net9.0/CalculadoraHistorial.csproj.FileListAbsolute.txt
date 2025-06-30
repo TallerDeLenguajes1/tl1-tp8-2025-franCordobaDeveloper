@@ -1,0 +1,15 @@
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.exe
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.deps.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.runtimeconfig.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.sourcelink.json
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\refint\CalculadoraHistorial.dll
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.pdb
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\universidad\Parcial Taller 1 2025\Segunda Parte\tl1-tp8-2025-franCordobaDeveloper\CalculadoraHistorial\obj\Debug\net9.0\ref\CalculadoraHistorial.dll
